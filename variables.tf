@@ -14,5 +14,5 @@ variable "vol_size" {
 }
 variable "public_key_material" {}
 variable "key_name" {
-  default = brand-new-key"
+  default = "brand-new-key"
 }
